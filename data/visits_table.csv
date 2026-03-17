@@ -1,0 +1,31 @@
+visit_id,patient_id,department,diagnosis,cost,visit_date
+V001,P001,Cardiology,Hypertension,220,2026-03-01
+V002,P002,Dermatology,Skin Allergy,120,2026-03-01
+V003,P003,Neurology,Migraine,180,2026-03-02
+V004,P004,General Medicine,Flu,90,2026-03-02
+V005,P005,Orthopedics,Back Pain,200,2026-03-03
+V006,P006,Cardiology,Checkup,150,2026-03-03
+V007,P007,Cardiology,Heart Disease,320,2026-03-04
+V008,P008,Neurology,Headache,140,2026-03-04
+V009,P009,Orthopedics,Arthritis,230,2026-03-05
+V010,P010,General Medicine,Cold,80,2026-03-05
+V011,P001,Cardiology,Checkup,160,2026-03-06
+V012,P002,General Medicine,Checkup,85,2026-03-06
+V013,P003,Cardiology,Hypertension,210,2026-03-07
+V014,P004,Dermatology,Rash,110,2026-03-07
+V015,P005,Orthopedics,Knee Pain,210,2026-03-08
+V016,P006,General Medicine,Fever,100,2026-03-08
+V017,P007,Cardiology,Checkup,180,2026-03-09
+V018,P008,Neurology,Migraine,175,2026-03-09
+V019,P009,Orthopedics,Back Pain,220,2026-03-10
+V020,P010,General Medicine,Flu,95,2026-03-10
+V021,P011,Cardiology,Hypertension,200,2026-03-11
+V022,P012,Dermatology,Acne,90,2026-03-11
+V023,P013,Orthopedics,Fracture,260,2026-03-12
+V024,P014,General Medicine,Cold,85,2026-03-12
+V025,P015,Neurology,Migraine,170,2026-03-13
+V026,P016,Cardiology,Checkup,150,2026-03-13
+V027,P017,Dermatology,Allergy,115,2026-03-14
+V028,P018,Orthopedics,Arthritis,240,2026-03-14
+V029,P019,General Medicine,Fever,105,2026-03-15
+V030,P020,Cardiology,Heart Disease,330,2026-03-15
